@@ -10,10 +10,10 @@ This is a project using open data which was sourced from internet. The project t
 ## Data Sets
 The project would use open datasets sourced from California Energy Commission (2022), including ZEV sales data, ZEV population data, non-ZEV population data and EV chargers data. Population data by county in California sourced from US Census Bureau would be used as well.  
 **Challenges:** Datasets may have missing and inconsistent values.  
-**Limitations:** EV chargers dataset is only for 2021 which is a small dataset and not enough to conduct an effective linear regression analysis. Other relevant data whicn impact on ZEV sales (for example: ZEV action plans and supporting benefits launched from California) is unstructured and hard to be collected from online open data.
+**Limitations:** EV chargers dataset is only for 2021 which is a small dataset and not enough to conduct an effective linear regression analysis. Other relevant data which impact on ZEV sales (for example: ZEV action plans and supporting benefits launched from California) is unstructured and hard to be collected from online open data.
 
 ## Project Understanding and Analytical Methods
-Instead of a project brief, the project can be analyzed any points depending on the analyst's interests. When I collected the open dataset online, the increasing ZEV sales attracted me. It is a definitely new-rising market. I wonder what factors make it developed so fast. According to the collected data, I decided to focus on two varialbes: fuel prices and the number of EV chargers. I was going to use linear regression analysis to reveal the relationships between ZEV sales and the two variables.
+Instead of a project brief, the project can be analyzed any points depending on the analyst's interests. When I collected the open dataset online, the increasing ZEV sales attracted me. It is a definitely new-rising market. I wondered what factors make it developed so fast. According to the collected data, I decided to focus on two variables: fuel prices and the number of EV chargers. I was going to use linear regression analysis to reveal the relationships between ZEV sales and the two variables.
 
 
 ## Outputs
